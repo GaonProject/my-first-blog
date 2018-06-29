@@ -8,3 +8,4 @@ db.sqlitte3
 .ipynb_checkpoints
 *.ipynb
 .vscode
+python_intro.py
